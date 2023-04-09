@@ -17,3 +17,8 @@ week02/ny_taxi_postgres_data/
 
 
 zoom/
+# Default .gitignore content added by dbt Cloud
+target/
+dbt_packages/
+logs/
+# end dbt Cloud content
