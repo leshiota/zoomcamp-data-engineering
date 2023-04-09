@@ -14,3 +14,5 @@
 /week02/ny_taxi_postgres_data/*
 
 git remote add origin https://github.com/leshiota/data_engineering-_zoomcamp.git
+
+/zoom/*
