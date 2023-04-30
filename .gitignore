@@ -27,7 +27,8 @@ logs/
 week03/data/
 
 #week 04 files
-week04/data/
+week04/data/*/
+week04/data/*.parquet
 
 #root files
 *.csv.gz
