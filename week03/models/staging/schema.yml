@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: staging
+    database: tc-de-380412
+    schema: dezoomcamp2
+
+    tables:
+      - name: rides
